@@ -9,7 +9,7 @@ document.getElementById('content').innerHTML = `
 `;
 
 document.getElementById('nav-links').innerHTML = `
-    <li><a href="https://home.zwh123.cn">紹介</a></li>
-    <li><a href="https://blog.zwh123.cn">ブログ</a></li>
-    <li><a href="https://zwh233.top" target="_blank">バックアップサイト</a></li>
+    <li><a href="https://home.zwh233.top">紹介</a></li>
+    <li><a href="https://blog.zwh233.top">ブログ</a></li>
+    <li><a href="https://zwhweb.pages.dev" target="_blank">バックアップサイト</a></li>
 `;
