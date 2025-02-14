@@ -9,7 +9,7 @@ document.getElementById('content').innerHTML = `
 `;
 
 document.getElementById('nav-links').innerHTML = `
-    <li><a href="https://home.zwh123.cn">Introduction</a></li>
-    <li><a href="https://blog.zwh123.cn">Blog</a></li>
-    <li><a href="https://zwh233.top" target="_blank">Backup Site</a></li>
+    <li><a href="https://home.zwh233.top">Introduction</a></li>
+    <li><a href="https://blog.zwh233.top">Blog</a></li>
+    <li><a href="https://zwhweb.pages.dev" target="_blank">Backup Site</a></li>
 `;
