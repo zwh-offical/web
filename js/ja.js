@@ -1,5 +1,5 @@
 document.getElementById('content').innerHTML = `
-    <h1>炜皓のウェブサイト</h1>
+    <h1>Mikanのウェブサイト</h1>
     <p><br></p>
     <p>連絡先メール：<a href="mailto:zwh@outlook.jp" class="__cf_email__" data-cfemail="5e2429361e2429366f6c6d703d30">zwh@outlook.jp</a><br></p>
     <p><br></p>
